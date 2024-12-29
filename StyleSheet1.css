@@ -1,0 +1,39 @@
+﻿body
+{
+    margin:0px;
+}
+main
+{
+    margin-left:20px;
+    margin-right:20px;
+}
+h1
+{
+    text-align:center;
+    background-color: #FFFFFF;
+}
+.navbar ul
+{
+    list-style-type:none;
+    
+    padding:0px;
+    margin:0px;
+    overflow:hidden;
+}
+.navbar
+a
+{
+    color:Black;
+    text-decoration:none;
+    padding:15px;
+    display:block;
+    text-align:center;
+}
+.navbar a:hover
+{
+    background-color:Orange;
+}
+.navbar li
+{
+    float:left;
+}
